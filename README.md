@@ -1,1 +1,1 @@
-EFI folder 
+Kaby Lake
