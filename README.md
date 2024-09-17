@@ -1,6 +1,5 @@
 ## Opencore Efi Laptop Acer-Z476 (Kabylake Prosessor) Ventura
-- sudo cp -R DisplayVendorID-dae /Library/Displays/Contents/Resources/Overrides/
-- sudo cp -R icons.plist /Library/Displays/Contents/Resources/Overrides/
+
 ## Model MacBookPro 14,1
 - Intel(R) Core(TM) i3-7130U CPU @ 2.70GHz
 - 8 GB DDR3L-2133 SODIM
@@ -13,4 +12,8 @@
 ## Work
 - ✅ All Work
 ## Notes
-- Battery indicator does not work when charging 
+- Battery indicator does not work when charging
+## Display 
+## Resolution Set 1568 x 882
+- sudo cp -R DisplayVendorID-dae /Library/Displays/Contents/Resources/Overrides/
+- sudo cp -R icons.plist /Library/Displays/Contents/Resources/Overrides/
