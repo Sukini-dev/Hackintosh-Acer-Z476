@@ -17,3 +17,5 @@
 ## Resolution Set 1568 x 882
 - sudo cp -R DisplayVendorID-dae /Library/Displays/Contents/Resources/Overrides/
 - sudo cp -R icons.plist /Library/Displays/Contents/Resources/Overrides/
+- 
+![Screenshot 2024-09-17 at 11 24 27](https://github.com/user-attachments/assets/3caa4f5d-08cb-4409-b7cb-6af80b96782d)
