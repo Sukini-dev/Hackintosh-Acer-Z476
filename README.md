@@ -12,7 +12,7 @@
 ## Work
 - ✅ All Work
 ## Notes
-- Battery indicator does not work when charging
+- Battery indicator Broken, does not work when charging
 ## Display 
 ## Resolution Set 1568 x 882
 - sudo cp -R DisplayVendorID-dae /Library/Displays/Contents/Resources/Overrides/
