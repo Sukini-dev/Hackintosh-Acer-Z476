@@ -14,7 +14,7 @@
 ## Notes
 - Battery indicator Broken, does not work when charging
 ## Display 
-## Resolution Set 1568 x 882
+## Resolution Set 1600 x 900
 - sudo cp -R DisplayVendorID-dae /Library/Displays/Contents/Resources/Overrides/
 - sudo cp -R icons.plist /Library/Displays/Contents/Resources/Overrides/
 - 
