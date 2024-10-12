@@ -9,6 +9,8 @@
 - Wifi Intel Dual Band Wireless AC 3168 NGW
 - Ethernet Realtek RTL8111
 - Bluetooth Broadcom BCM4350C2
+- Card Reader
+- SMBUS
 - Sleep/WakeUp
 ## Work
 - ✅ All Work
