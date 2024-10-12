@@ -30,3 +30,8 @@
 
 
 ![Screenshot 2024-10-12 at 21 27 46](https://github.com/user-attachments/assets/3ef62bce-083a-47d0-9984-8a9548039544)
+
+## Scaled Resolutions
+https://codeclou.github.io/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/
+
+
