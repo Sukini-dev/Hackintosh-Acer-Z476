@@ -12,7 +12,7 @@
 ## Work
 - ✅ All Work
 ## Notes
-- Battery indicator Fix Kext SMCBatteryManager.Kext to VoodooBattery.Kext
+- Battery indicator Fixed : Replace Kext SMCBatteryManager.Kext to VoodooBattery.Kext
 ## Display 
 ## Resolution Set 1600 x 900
 - sudo cp -R DisplayVendorID-dae /Library/Displays/Contents/Resources/Overrides/
