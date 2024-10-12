@@ -21,7 +21,7 @@
 - Use **One-Key-HiDPi-Master** to find the desired resolution
 - sudo cp -R DisplayVendorID-dae /Library/Displays/Contents/Resources/Overrides/
 - sudo cp -R icons.plist /Library/Displays/Contents/Resources/Overrides/
-- ![Screenshot 2024-10-13 at 02 01 36](https://github.com/user-attachments/assets/3bbfa000-d53f-49a1-a452-58045f0abc3b)
+![Screenshot 2024-10-13 at 02 01 36](https://github.com/user-attachments/assets/3bbfa000-d53f-49a1-a452-58045f0abc3b)
 
 ![Screenshot 2024-09-17 at 11 24 27](https://github.com/user-attachments/assets/791ce47b-d4e8-4c84-8809-b1662c78ce26)
 
