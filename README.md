@@ -18,7 +18,7 @@
 - Battery indicator Fixed : Replace Kext SMCBatteryManager.Kext to VoodooBattery.Kext
 ## Display 
 ## Resolution Set 1600 x 900
-- Use One_Key_HiDPi
+- Use **One-Key-HiDPi-Master** to find the desired resolution
 - sudo cp -R DisplayVendorID-dae /Library/Displays/Contents/Resources/Overrides/
 - sudo cp -R icons.plist /Library/Displays/Contents/Resources/Overrides/
 - ![Screenshot 2024-10-12 at 22 51 08](https://github.com/user-attachments/assets/a304b099-d1eb-457e-9839-2b623025755d)
