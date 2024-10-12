@@ -1,4 +1,4 @@
-## Opencore Efi Laptop Acer-Z476 (Kabylake Prosessor) Ventura
+## Opencore Efi Laptop Acer-Z476 (Kabylake Prosessor) Sonoma 14.4
 
 ## Model MacBookPro 14,1
 - Intel(R) Core(TM) i3-7130U CPU @ 2.70GHz
@@ -12,7 +12,7 @@
 ## Work
 - ✅ All Work
 ## Notes
-- Battery indicator Broken, does not work when charging
+- Battery indicator Fix Kext SMCBatteryManager.Kext to VoodooBattery.Kext
 ## Display 
 ## Resolution Set 1600 x 900
 - sudo cp -R DisplayVendorID-dae /Library/Displays/Contents/Resources/Overrides/
