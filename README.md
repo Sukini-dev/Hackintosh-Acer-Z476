@@ -2,10 +2,10 @@
 - Intel(R) Core(TM) i3-7130U CPU @ 2.70GHz
 - 8 GB DDR3L-2133 SODIM
 - 512GB SATA SSD
-- 
-## OS Sonoma 14.4
+  
+## OS Sonoma 14.7
 
-## Model MacBookPro 14,1
+## Model MacBookPro 15,4
 ## Work :
 - Intel HD Graphics 620 ✅
 - Audio Realtek ALC269 HD Audio Controller ✅
