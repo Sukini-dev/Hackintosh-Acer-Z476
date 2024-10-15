@@ -14,8 +14,12 @@
 - Sleep/WakeUp
 ## Work
 - ✅ All Work
-## Notes
-- Battery indicator Fixed : Replace Kext SMCBatteryManager.Kext to VoodooBattery.Kext
+  
+## Take Notes
+- ## Battery indicator Fixed :
+- V1.0 : Replace Kext SMCBatteryManager.Kext to VoodooBattery.Kext
+- V1.1 : Replace Kext FakeSMC.Kext to VirtualSMC.Kext, VoodooBattery.Kext to ACPIBatteryManager.Kext
+  
 ## Display 
 ## Resolution Set 1600 x 900
 - Use **One-Key-HiDPi-Master** to find the desired resolution
