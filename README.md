@@ -1,19 +1,22 @@
-## Opencore Efi Laptop Acer-Z476 (Kabylake Prosessor) Sonoma 14.4
-
-## Model MacBookPro 14,1
+## Opencore Efi Laptop Acer Aspire Z476 (Kabylake Processor) 
 - Intel(R) Core(TM) i3-7130U CPU @ 2.70GHz
 - 8 GB DDR3L-2133 SODIM
 - 512GB SATA SSD
-- Intel HD Graphics 620
-- Audio Realtek ALC269 HD Audio Controller
-- Wifi Intel Dual Band Wireless AC 3168 NGW
-- Ethernet Realtek RTL8111
-- Bluetooth Broadcom BCM4350C2
-- Card Reader
-- SMBUS
-- Sleep/WakeUp
-## Work
-- ✅ All Work
+- 
+## OS Sonoma 14.4
+
+## Model MacBookPro 14,1
+## Work :
+- Intel HD Graphics 620 ✅
+- Audio Realtek ALC269 HD Audio Controller ✅
+- Wifi Intel Dual Band Wireless AC 3168 NGW ✅
+- Ethernet Realtek RTL8111 ✅
+- Bluetooth Broadcom BCM4350C2 ✅
+- Camera ✅
+- Card Reader ✅
+- SMBUS ✅
+- Sleep/WakeUp ✅
+- Battery Up to 4 Hours ✅
   
 ## Take Notes
 - ## Battery indicator Fixed :
