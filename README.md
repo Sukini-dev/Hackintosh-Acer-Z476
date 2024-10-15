@@ -7,7 +7,7 @@
 
 ## Model MacBookPro 15,4
 ## Work :
-- Intel HD Graphics 620 ✅
+- Intel HD Graphics 620 QE/CI ✅
 - Audio Realtek ALC269 HD Audio Controller ✅
 - Wifi Intel Dual Band Wireless AC 3168 NGW ✅
 - Ethernet Realtek RTL8111 ✅
@@ -15,7 +15,8 @@
 - Camera ✅
 - Card Reader ✅
 - SMBUS ✅
-- Sleep/WakeUp ✅
+- Trackpad, Trackball, Gestures ✅
+- Sleep, Shutdown, Restart ✅
 - Battery Up to 4 Hours ✅
   
 ## Take Notes
