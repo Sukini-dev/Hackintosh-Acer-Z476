@@ -1,21 +1,29 @@
-## Opencore Efi Laptop Acer-Z476 (Kabylake Prosessor) Sonoma 14.4
-
-## Model MacBookPro 14,1
+## Opencore Efi Laptop Acer Aspire Z476 (Kabylake Processor) 
 - Intel(R) Core(TM) i3-7130U CPU @ 2.70GHz
 - 8 GB DDR3L-2133 SODIM
 - 512GB SATA SSD
-- Intel HD Graphics 620
-- Audio Realtek ALC269 HD Audio Controller
-- Wifi Intel Dual Band Wireless AC 3168 NGW
-- Ethernet Realtek RTL8111
-- Bluetooth Broadcom BCM4350C2
-- Card Reader
-- SMBUS
-- Sleep/WakeUp
-## Work
-- ✅ All Work
-## Notes
-- Battery indicator Fixed : Replace Kext SMCBatteryManager.Kext to VoodooBattery.Kext
+  
+## OS Sonoma 14.7
+
+## Model MacBookPro 15,4
+## Work :
+- Intel HD Graphics 620 QE/CI ✅
+- Audio Realtek ALC269 HD Audio Controller ✅
+- Wifi Intel Dual Band Wireless AC 3168 NGW ✅
+- Ethernet Realtek RTL8111 ✅
+- Bluetooth Broadcom BCM4350C2 ✅
+- Camera ✅
+- Card Reader ✅
+- SMBUS ✅
+- Trackpad, Trackball, Gestures ✅
+- Sleep, Shutdown, Restart ✅
+- Battery Up to 4 Hours ✅
+  
+## Take Notes
+- ## Battery indicator Fixed :
+- V1.0 : Replace Kext SMCBatteryManager.Kext to VoodooBattery.Kext
+- V1.1 : Replace Kext FakeSMC.Kext to VirtualSMC.Kext, VoodooBattery.Kext to ACPIBatteryManager.Kext
+  
 ## Display 
 ## Resolution Set 1600 x 900
 - Use **One-Key-HiDPi-Master** to find the desired resolution
